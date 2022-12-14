@@ -1,3 +1,3 @@
-# php_jour_3
+# SQL
 
 exercices de requêtes SQL
